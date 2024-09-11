@@ -1,0 +1,38 @@
+section {
+    padding: 30px;
+    margin: 20px;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+#about {
+    background-color: #ffccff;
+}
+
+#schedule {
+    background-color: #ccffcc;
+}
+
+#gallery {
+    text-align: center;
+    background-color: #ccccff;
+}
+
+#gallery img {
+    margin: 10px;
+    width: 250px;
+    height: auto;
+    border-radius: 10px;
+}
+
+footer {
+    background-color: #ff9966;
+    color: white;
+    text-align: center;
+    padding: 15px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    box-shadow: 0 -4px 6px rgba(0, 0, 0, 0.1);
+}
